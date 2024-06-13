@@ -1,0 +1,10 @@
+C:\Users\ahmet\Desktop\yapay zeka ödevleri\yapay sinir ağları\yapaysiniraglariodevi\yapaysiniraglariodevi\obj\Debug\yapaysiniraglariodevi.csproj.AssemblyReference.cache
+C:\Users\ahmet\Desktop\yapay zeka ödevleri\yapay sinir ağları\yapaysiniraglariodevi\yapaysiniraglariodevi\obj\Debug\yapaysiniraglariodevi.Form1.resources
+C:\Users\ahmet\Desktop\yapay zeka ödevleri\yapay sinir ağları\yapaysiniraglariodevi\yapaysiniraglariodevi\obj\Debug\yapaysiniraglariodevi.Properties.Resources.resources
+C:\Users\ahmet\Desktop\yapay zeka ödevleri\yapay sinir ağları\yapaysiniraglariodevi\yapaysiniraglariodevi\obj\Debug\yapaysiniraglariodevi.csproj.GenerateResource.cache
+C:\Users\ahmet\Desktop\yapay zeka ödevleri\yapay sinir ağları\yapaysiniraglariodevi\yapaysiniraglariodevi\obj\Debug\yapaysiniraglariodevi.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\Desktop\yapay zeka ödevleri\yapay sinir ağları\yapaysiniraglariodevi\yapaysiniraglariodevi\bin\Debug\yapaysiniraglariodevi.exe.config
+C:\Users\ahmet\Desktop\yapay zeka ödevleri\yapay sinir ağları\yapaysiniraglariodevi\yapaysiniraglariodevi\bin\Debug\yapaysiniraglariodevi.exe
+C:\Users\ahmet\Desktop\yapay zeka ödevleri\yapay sinir ağları\yapaysiniraglariodevi\yapaysiniraglariodevi\bin\Debug\yapaysiniraglariodevi.pdb
+C:\Users\ahmet\Desktop\yapay zeka ödevleri\yapay sinir ağları\yapaysiniraglariodevi\yapaysiniraglariodevi\obj\Debug\yapaysiniraglariodevi.exe
+C:\Users\ahmet\Desktop\yapay zeka ödevleri\yapay sinir ağları\yapaysiniraglariodevi\yapaysiniraglariodevi\obj\Debug\yapaysiniraglariodevi.pdb
